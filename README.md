@@ -1,4 +1,4 @@
-WilldooIT Odoo Autodoc
+Sphinx Odoo Autodoc
 ======================
 
 This package provides a sphinx extension that allows to use "odoo.addons.*" with sphinx autodoc feature.
@@ -13,8 +13,8 @@ Options
 Authors
 =======
 
-Original work by Sylvain Garancher (sylvain.garancher@syleam.fr)  
-Fork maintained by WilldooIT Ltd (https://www.willdooit.com/)
+- Original work by Sylvain Garancher (sylvain.garancher@syleam.fr) and WilldooIT Ltd (https://www.willdooit.com/)
+- Fork maintained by Codeforward B.V. (https://codeforward.nl)
 
 
-This fork is used internally by WilldooIT, no support will be offered to external developers.
+This fork is used internally by Codeforward B.V., no support will be offered to external developers.
